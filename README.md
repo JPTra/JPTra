@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Arjuna Olanda Putra 👋</h1>
 
 <p>
-I'm a Software Engineering Student from Indonesia 🇮🇩 who is interested in software development and web technologies. Through academic and personal projects, I continue to develop my technical skills, explore new technologies, and gain practical experience in building web applications.
+I'm a Software Engineering Student from Indonesia 🇮🇩 with an interest in software development and web technologies.
 </p>
 
 ## Skill Set 💪
