@@ -26,6 +26,10 @@ These are some of the technologies I have learned and used throughout my academi
   <img src="https://skillicons.dev/icons?i=laravel" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+</p>
+
 ### Database
 
 <p>
