@@ -1,39 +1,39 @@
 <h1 align="center">Hi There, I'm Arjuna Olanda Putra 👋</h1>
 
 <p>
-I'm a Software Engineering Student from Indonesia 🇮🇩 who is passionate about software development and web technologies. I enjoy learning through academic and personal projects, exploring new technologies, and continuously improving my technical and problem-solving skills as I grow in my software engineering journey.
+I'm a Software Engineering Student from Indonesia 🇮🇩 who is interested in software development and web technologies. Through academic and personal projects, I continue to develop my technical skills, explore new technologies, and gain practical experience in building web applications.
 </p>
 
 ## Skill Set 💪
 
-These are some of the technologies that I have learned and worked with during my studies and personal projects.
+These are some of the technologies I have learned and used throughout my academic and personal projects.
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=php" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
 </p>
