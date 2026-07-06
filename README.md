@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Arjuna Olanda Putra 👋</h1>
+<h1 align="center">Hi There, I'm Arjuna Olanda Putra</h1>
 
 <p>
 I'm a Software Engineering Student from Indonesia 🇮🇩 with an interest in software development and web technologies.
